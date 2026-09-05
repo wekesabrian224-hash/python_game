@@ -1,0 +1,24 @@
+{
+  "inventory": [
+    "old key"
+  ],
+  "flags": {
+    "read_letter": true,
+    "examined_symbol": true,
+    "rescued_girl": false,
+    "left_girl": true,
+    "questioned_girl": false,
+    "found_own_book": false,
+    "accepted_truth": false,
+    "ritual_door": null,
+    "ally": null,
+    "loops": 0,
+    "pulled_lever": true
+  },
+  "traits": {
+    "trust": -2,
+    "courage": 0,
+    "curiosity": 7
+  },
+  "level": 3
+}
